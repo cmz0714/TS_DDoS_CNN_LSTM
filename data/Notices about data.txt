@@ -1,0 +1,4 @@
+1- The used dataset used in this research extracted from public dataset CIDIDS-001.
+https://www.hs-coburg.de/forschung/forschungsprojekte-oeffentlich/informationstechnologie/cidds-coburg-intrusion-detection-data-sets.html
+2- we limited on 6 features are detailed in the paper.
+3- The data in the file "data_for_ts.csv" is processed by extract 6 features, vectorize (IP address, protocol)...
